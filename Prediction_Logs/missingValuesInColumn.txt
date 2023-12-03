@@ -1,0 +1,2 @@
+2023-12-03/00:46:44		Missing Values Validation Started!!
+2023-12-03/00:46:44		Invalid Column Length for the file!! File moved to Bad Raw Folder :: visibility_08012018_120065.csv
